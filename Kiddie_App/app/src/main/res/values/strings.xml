@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SENIORS</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_start">StartActivity</string>
+
+    <string name="title_activity_user_home">UserHomeActivity</string>
+    <string name="title_activity_edit_profile">EditProfileActivity</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="title_activity_compalin_">Compalin_Activity</string>
+
+    <string name="title_activity_start_screen">SENIORS</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">SENIORS</string>
+    <string name="title_activity_parent_home">ParentHomeActivity</string>
+    <string name="title_activity_edit_profile_p">EditProfilePActivity</string>
+    <string name="title_senior_list">Seniors</string>
+    <string name="title_senior_detail">Senior Detail</string>
+    <string name="title_activity_senior_detail">SeniorDetailActivity</string>
+    <string name="title_activity_add_senior">AddSeniorActivity</string>
+
+    <string-array name="gen">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="pickup">
+        <item>Washington Ave/Fremont Blvd</item>
+        <item>Grimmer/Fremont Blvd</item>
+        <item>Stevenson Blvd/Fremont Blvd</item>
+        <item>Mowry Ave/Fremont Blvd</item>
+    </string-array>
+    <string name="title_activity_senior_list_driver">SeniorListDriverActivity</string>
+
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+</resources>
